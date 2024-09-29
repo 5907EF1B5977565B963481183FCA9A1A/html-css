@@ -1,0 +1,73 @@
+
+.div-login {
+    background-color: rgb(246, 228, 207);
+    width: 930px;
+    height: 610px;
+    border-radius: 15px 0px 0px 0px;
+}
+.login-html {
+    display: flex;
+}
+.login-text {
+    text-align: center;
+    font-size: 52px;
+    margin-top: 40px;
+}
+.Welcome {
+    text-align: center;
+    font-size: 30px;
+}
+.mail {
+    margin-left: 290px;
+    font-size: 23px;
+}
+.input {
+    margin-left: 290px;
+    width: 350px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(246, 228, 207);
+}
+.forgot {
+    margin-left: 510px;
+    font-size: 20px;
+    color: darkblue;
+}
+.login-button {
+    margin-left: 290px;
+    width: 353px;
+    height: 39px;
+    font-size: 20px;
+    color: white;
+    border-radius: 9px;
+    background-color: darkblue;
+}
+.click {
+    margin-left: 380px;
+    font-size: 20px;
+    color: darkblue;
+}
+.by {
+    margin-left: 210px;
+    font-size: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

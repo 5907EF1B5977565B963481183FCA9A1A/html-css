@@ -1,0 +1,53 @@
+.login-html1 {
+    display: flex;
+}
+.login {
+    background-color: rgb(246, 228, 207);
+    height: 590px;
+    width: 930px;
+    border-radius: 15px 0px 0px 0px;
+}
+.login-text1 {
+    text-align: center;
+    font-size: 52px;
+    margin-top: 40px;
+}
+.img-html {
+    height: 630px;
+}
+.create1 {
+    text-align: center;
+    font-size: 29px;
+}
+.title {
+    margin-left: 290px;
+    font-size: 23px;
+}
+.input {
+    margin-left: 1px;
+    width: 360px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(246, 228, 207);
+}
+.login-button {
+    margin-left: 290px;
+    width: 367px;
+    height: 42px;
+    font-size: 20px;
+    color: white;
+    border-radius: 9px;
+    background-color: darkblue;
+}
+.click-1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
